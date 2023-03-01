@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4914664814817989733
+  m_GuidHigh: 10517195981143341469
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5511786604105261726
+      m_GuidHigh: 6423357949946119863
+    m_SerializedTextureGuid:
+      m_GuidLow: 16299852849769838423
+      m_GuidHigh: 16829008772098898075
+    m_Size: {x: 1, y: 1}
+    m_SpecifySize: 1
+    m_Name: Earth
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4714588584018954327
+      m_GuidHigh: 10177991000123185811
+    m_SerializedTextureGuid:
+      m_GuidLow: 18047322554853166082
+      m_GuidHigh: 10287347605705332665
+    m_Size: {x: 1, y: 1}
+    m_SpecifySize: 1
+    m_Name: Sun
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5151112876180696232
+      m_GuidHigh: 9853653950244692617
+    m_SerializedTextureGuid:
+      m_GuidLow: 6675501835530435624
+      m_GuidHigh: 4007805787583988984
+    m_Size: {x: 1, y: 1}
+    m_SpecifySize: 1
+    m_Name: Mercury
+    m_Texture: {fileID: 0}
